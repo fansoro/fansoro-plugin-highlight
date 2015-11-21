@@ -5,11 +5,11 @@
 Highlight plugin for [Morfy](https://github.com/morfy-cms/morfy) adds a powerful code highlighting functionality with Highlight.js
 
 
-137 languages and 65 styles [(live demo)](https://highlightjs.org/static/demo/)   
-automatic language detection   
-multi-language code highlighting   
-works with any markup   
-compatible with any js framework   
+* 137 languages and 65 styles [(live demo)](https://highlightjs.org/static/demo/)   
+* automatic language detection   
+* multi-language code highlighting   
+* works with any markup   
+* compatible with any js framework   
 
 ## Installation
 See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)

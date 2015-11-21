@@ -19,11 +19,11 @@ See [this instruction](http://morfy.org/documentation/plugins/plugins-installati
     }
     ```
 
-## Options
-| name  | value |
-|---|---|
-| enabled | true (or `false` to disable the plugin) |
-| theme | monokai (or other from the list below) |
+## Settings
+```yaml
+enabled: true #(or `false` to disable the plugin) |
+theme: monokai #(or other from the list below) |
+```
 
 ### Themes
 Check out a [live demo](https://highlightjs.org/static/demo/) of these themes!

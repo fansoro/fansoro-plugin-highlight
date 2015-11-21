@@ -2,7 +2,7 @@
 
 ![Highlight](screenshot.png)  
 
-Highlight plugin for [Morfy](https://github.com/morfy-cms/morfy) adds a powerful code highlighting functionality with Highlight.js
+Highlight plugin for [Morfy](https://github.com/morfy-cms/morfy) adds a powerful code highlighting functionality with [Highlight.js](https://highlightjs.org/)
 
 
 * 137 languages and 65 styles [(live demo)](https://highlightjs.org/static/demo/)   

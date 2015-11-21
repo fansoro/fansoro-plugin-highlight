@@ -1,4 +1,7 @@
 # Highlight
+
+![Highlight](screenshot.png)  
+
 Highlight plugin for [Morfy](https://github.com/morfy-cms/morfy) adds a powerful code highlighting functionality with Highlight.js
 
 ## Installation
@@ -21,8 +24,8 @@ See [this instruction](http://morfy.org/documentation/plugins/plugins-installati
 
 ## Settings
 ```yaml
-enabled: true #(or `false` to disable the plugin) |
-theme: monokai #(or other from the list below) |
+enabled: true  # or `false` to disable the plugin
+theme: monokai # or other from the list below
 ```
 
 ### Themes

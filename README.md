@@ -65,4 +65,4 @@ Check out a [live demo](https://highlightjs.org/static/demo/) of these themes!
 | school_bank            |                          |                           |
 
 ## License
-See [LICENSE](https://github.com/morfy-cms/morfy-plugin-reading-time/blob/master/LICENSE)
+See [LICENSE](https://github.com/morfy-cms/morfy-plugin-highlight/blob/master/LICENSE)

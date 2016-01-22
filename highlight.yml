@@ -1,12 +1,12 @@
 name: Highlight
-version: 1.0.0
-description: "Highlight plugin for Morfy adds a powerful code highlighting functionality with Highlight.js"
+version: 2.0.0
+description: "Highlight plugin for Fansoro adds a powerful code highlighting functionality with Highlight.js"
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
-  url: http://morfy.org
-homepage: https://github.com/morfy-cms/morfy-plugin-highlight
-bugs: https://github.com/morfy-cms/morfy-plugin-highlight/issues
+  url: http://fansoro.org
+homepage: https://github.com/fansoro/fansoro-plugin-highlight
+bugs: https://github.com/fansoro/fansoro-plugin-highlight/issues
 license: MIT
 
 # Plugin settings
